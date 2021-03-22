@@ -11,8 +11,8 @@ This is the biggest project in my portfolio with over 100 classes inside! Simple
 -Dagger
 -Glider
 
+![Animated GIF - Find   Share on GIPHY](https://user-images.githubusercontent.com/27519681/111990606-b4ddb400-8b13-11eb-8e42-7ded6a0cd5ef.gif)
 
-https://giphy.com/gifs/ldWPLYrCheOJl4YcQW/edit
 
 
 
